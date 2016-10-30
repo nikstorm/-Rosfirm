@@ -1,0 +1,20 @@
+{
+  "name": "my_tempplate",
+  "version": "1.0.0",
+  "description": "It is my own template wit BS, Gulp, Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nik",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
+    "bourbon": "^4.2.7",
+    "compass": "^0.1.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "jquery": "^3.0.0",
+    "normalize": "^0.3.1"
+  }
+}
